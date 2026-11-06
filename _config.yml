@@ -1,0 +1,4 @@
+# GitHub Pages settings, added by Scalogy's Copy my website tool.
+# site-copy/ is source material for your AI agent: this keeps it off your live site.
+exclude:
+  - site-copy

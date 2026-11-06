@@ -1,0 +1,1380 @@
+{
+  "generated_by": "Scalogy's Copy my website tool (https://scalogy.com/copy-my-website)",
+  "generated_at": "2026-11-06T03:31:50.498Z",
+  "source": {
+    "url": "https://scalogy.com/",
+    "domain": "scalogy.com",
+    "platform": "Other"
+  },
+  "pages_found": 100,
+  "pages": [
+    {
+      "url": "https://scalogy.com/",
+      "file": "pages/index.html",
+      "title": "AI & Business Automation for Atlanta Metro Businesses — Scalogy",
+      "description": "Scalogy builds and runs AI systems for Atlanta-metro businesses: lead response, scheduling, follow-up, reviews and CRM automation. Based in Fayetteville, GA.",
+      "screenshots": {
+        "desktop": [
+          {
+            "file": "screenshots/index-desktop-01.jpg",
+            "top": 0,
+            "height": 900,
+            "part": "1 of 14"
+          },
+          {
+            "file": "screenshots/index-desktop-02.jpg",
+            "top": 900,
+            "height": 900,
+            "part": "2 of 14"
+          },
+          {
+            "file": "screenshots/index-desktop-03.jpg",
+            "top": 1800,
+            "height": 900,
+            "part": "3 of 14"
+          },
+          {
+            "file": "screenshots/index-desktop-04.jpg",
+            "top": 2700,
+            "height": 900,
+            "part": "4 of 14"
+          },
+          {
+            "file": "screenshots/index-desktop-05.jpg",
+            "top": 3600,
+            "height": 900,
+            "part": "5 of 14"
+          },
+          {
+            "file": "screenshots/index-desktop-14.jpg",
+            "top": 11700,
+            "height": 300,
+            "part": "14 of 14"
+          }
+        ],
+        "phone": [
+          {
+            "file": "screenshots/index-phone-01.jpg",
+            "top": 0,
+            "height": 844,
+            "part": "1 of 15"
+          },
+          {
+            "file": "screenshots/index-phone-02.jpg",
+            "top": 844,
+            "height": 844,
+            "part": "2 of 15"
+          },
+          {
+            "file": "screenshots/index-phone-03.jpg",
+            "top": 1688,
+            "height": 844,
+            "part": "3 of 15"
+          },
+          {
+            "file": "screenshots/index-phone-04.jpg",
+            "top": 2532,
+            "height": 844,
+            "part": "4 of 15"
+          },
+          {
+            "file": "screenshots/index-phone-05.jpg",
+            "top": 3376,
+            "height": 844,
+            "part": "5 of 15"
+          },
+          {
+            "file": "screenshots/index-phone-15.jpg",
+            "top": 11816,
+            "height": 184,
+            "part": "15 of 15"
+          }
+        ],
+        "page_height": {
+          "desktop": 12000,
+          "phone": 12000
+        }
+      },
+      "images": [
+        "images/2873edf299fbeed9.gif",
+        "images/98255ff23bd022ff.webp",
+        "images/fd06ed55c639387d.webp",
+        "images/c2c5a45afdea3fbe.webp",
+        "images/c28b194826db3b56.webp",
+        "images/e1629bcf645c867e.webp",
+        "images/4780f0ad94358424.svg",
+        "images/6eee5679bfcab1d4.webp",
+        "images/0e46fd44bd86596f.webp",
+        "images/db33987d724f92c5.webp"
+      ],
+      "status": "copied"
+    },
+    {
+      "url": "https://scalogy.com/blog",
+      "file": "pages/blog.html",
+      "title": "Blog — AI Automation Insights for Small Businesses — Scalogy",
+      "description": "Practical guides, case studies, and tips on using AI agents to automate your small business.",
+      "screenshots": {
+        "desktop": [
+          {
+            "file": "screenshots/blog-desktop-01.jpg",
+            "top": 0,
+            "height": 900,
+            "part": "1 of 14"
+          },
+          {
+            "file": "screenshots/blog-desktop-02.jpg",
+            "top": 900,
+            "height": 900,
+            "part": "2 of 14"
+          },
+          {
+            "file": "screenshots/blog-desktop-03.jpg",
+            "top": 1800,
+            "height": 900,
+            "part": "3 of 14"
+          },
+          {
+            "file": "screenshots/blog-desktop-04.jpg",
+            "top": 2700,
+            "height": 900,
+            "part": "4 of 14"
+          },
+          {
+            "file": "screenshots/blog-desktop-05.jpg",
+            "top": 3600,
+            "height": 900,
+            "part": "5 of 14"
+          },
+          {
+            "file": "screenshots/blog-desktop-14.jpg",
+            "top": 11700,
+            "height": 300,
+            "part": "14 of 14"
+          }
+        ],
+        "phone": [
+          {
+            "file": "screenshots/blog-phone-01.jpg",
+            "top": 0,
+            "height": 844,
+            "part": "1 of 15"
+          },
+          {
+            "file": "screenshots/blog-phone-02.jpg",
+            "top": 844,
+            "height": 844,
+            "part": "2 of 15"
+          },
+          {
+            "file": "screenshots/blog-phone-03.jpg",
+            "top": 1688,
+            "height": 844,
+            "part": "3 of 15"
+          },
+          {
+            "file": "screenshots/blog-phone-04.jpg",
+            "top": 2532,
+            "height": 844,
+            "part": "4 of 15"
+          },
+          {
+            "file": "screenshots/blog-phone-05.jpg",
+            "top": 3376,
+            "height": 844,
+            "part": "5 of 15"
+          },
+          {
+            "file": "screenshots/blog-phone-15.jpg",
+            "top": 11816,
+            "height": 184,
+            "part": "15 of 15"
+          }
+        ],
+        "page_height": {
+          "desktop": 12000,
+          "phone": 12000
+        }
+      },
+      "images": [
+        "images/2873edf299fbeed9.gif",
+        "images/98255ff23bd022ff.webp",
+        "images/cfe4f97611c68ec6.webp",
+        "images/4638e9c0b143d950.webp",
+        "images/03df85c217eba413.webp",
+        "images/4367c00c488a3ed7.webp",
+        "images/db813756d125cd92.webp",
+        "images/b48e938af1e5080e.webp",
+        "images/354b4c7c860dcfff.webp",
+        "images/4c50d2a4c487959e.webp",
+        "images/1cd07b75035c89ae.webp",
+        "images/99f9c6d7de5fceb8.webp",
+        "images/56969b46534877b0.webp",
+        "images/6b2ac9c3b8adcd4a.webp",
+        "images/ac8cd8671fe7c3ea.webp",
+        "images/403562c1c2dba9b9.webp",
+        "images/1d02e87fc2bf8dde.webp",
+        "images/8ab410b16fdb625c.webp",
+        "images/315825ddec3ecdb8.webp",
+        "images/e851eb103f765eb5.webp",
+        "images/4b6b7f5281897c27.webp",
+        "images/674c25366a46e658.webp",
+        "images/e82c1e21154b71ef.webp",
+        "images/60d8a4896c18a5a8.webp",
+        "images/c0e4882652f3d822.webp",
+        "images/d395430089c2bb98.webp",
+        "images/58452d2423ec97c2.webp",
+        "images/782eb4c43ddf5978.webp",
+        "images/00093171fddae9d7.png"
+      ],
+      "status": "copied"
+    },
+    {
+      "url": "https://scalogy.com/about",
+      "file": "pages/about.html",
+      "title": "About — Scalogy",
+      "description": "Meet the team behind Scalogy. We build custom AI agents for small businesses — real tools, not templates.",
+      "screenshots": {
+        "desktop": [
+          {
+            "file": "screenshots/about-desktop-01.jpg",
+            "top": 0,
+            "height": 900,
+            "part": "1 of 3"
+          },
+          {
+            "file": "screenshots/about-desktop-02.jpg",
+            "top": 900,
+            "height": 900,
+            "part": "2 of 3"
+          },
+          {
+            "file": "screenshots/about-desktop-03.jpg",
+            "top": 1800,
+            "height": 536,
+            "part": "3 of 3"
+          }
+        ],
+        "phone": [
+          {
+            "file": "screenshots/about-phone-01.jpg",
+            "top": 0,
+            "height": 844,
+            "part": "1 of 5"
+          },
+          {
+            "file": "screenshots/about-phone-02.jpg",
+            "top": 844,
+            "height": 844,
+            "part": "2 of 5"
+          },
+          {
+            "file": "screenshots/about-phone-03.jpg",
+            "top": 1688,
+            "height": 844,
+            "part": "3 of 5"
+          },
+          {
+            "file": "screenshots/about-phone-04.jpg",
+            "top": 2532,
+            "height": 844,
+            "part": "4 of 5"
+          },
+          {
+            "file": "screenshots/about-phone-05.jpg",
+            "top": 3376,
+            "height": 725,
+            "part": "5 of 5"
+          }
+        ],
+        "page_height": {
+          "desktop": 2336,
+          "phone": 4101
+        }
+      },
+      "images": [
+        "images/2873edf299fbeed9.gif",
+        "images/98255ff23bd022ff.webp",
+        "images/db33987d724f92c5.webp"
+      ],
+      "status": "copied"
+    },
+    {
+      "url": "https://scalogy.com/terms",
+      "file": "pages/terms.html",
+      "title": "Terms of Service — Scalogy",
+      "description": "Scalogy terms of service. The rules and conditions for using our website and services.",
+      "screenshots": {
+        "desktop": [
+          {
+            "file": "screenshots/terms-desktop-01.jpg",
+            "top": 0,
+            "height": 900,
+            "part": "1 of 5"
+          },
+          {
+            "file": "screenshots/terms-desktop-02.jpg",
+            "top": 900,
+            "height": 900,
+            "part": "2 of 5"
+          },
+          {
+            "file": "screenshots/terms-desktop-03.jpg",
+            "top": 1800,
+            "height": 900,
+            "part": "3 of 5"
+          },
+          {
+            "file": "screenshots/terms-desktop-04.jpg",
+            "top": 2700,
+            "height": 900,
+            "part": "4 of 5"
+          },
+          {
+            "file": "screenshots/terms-desktop-05.jpg",
+            "top": 3600,
+            "height": 546,
+            "part": "5 of 5"
+          }
+        ],
+        "phone": [
+          {
+            "file": "screenshots/terms-phone-01.jpg",
+            "top": 0,
+            "height": 844,
+            "part": "1 of 7"
+          },
+          {
+            "file": "screenshots/terms-phone-02.jpg",
+            "top": 844,
+            "height": 844,
+            "part": "2 of 7"
+          },
+          {
+            "file": "screenshots/terms-phone-03.jpg",
+            "top": 1688,
+            "height": 844,
+            "part": "3 of 7"
+          },
+          {
+            "file": "screenshots/terms-phone-04.jpg",
+            "top": 2532,
+            "height": 844,
+            "part": "4 of 7"
+          },
+          {
+            "file": "screenshots/terms-phone-05.jpg",
+            "top": 3376,
+            "height": 844,
+            "part": "5 of 7"
+          },
+          {
+            "file": "screenshots/terms-phone-07.jpg",
+            "top": 5064,
+            "height": 821,
+            "part": "7 of 7"
+          }
+        ],
+        "page_height": {
+          "desktop": 4146,
+          "phone": 5885
+        }
+      },
+      "images": [
+        "images/2873edf299fbeed9.gif",
+        "images/98255ff23bd022ff.webp",
+        "images/db33987d724f92c5.webp"
+      ],
+      "status": "copied"
+    },
+    {
+      "url": "https://scalogy.com/custom",
+      "file": "pages/custom.html",
+      "title": "Custom Install — Scalogy",
+      "description": "We build custom business apps on the Scalogy platform, around how your business runs: answering leads, booking calls, following up and handling admin 24/7.",
+      "screenshots": {
+        "desktop": [
+          {
+            "file": "screenshots/custom-desktop-01.jpg",
+            "top": 0,
+            "height": 900,
+            "part": "1 of 9"
+          },
+          {
+            "file": "screenshots/custom-desktop-02.jpg",
+            "top": 900,
+            "height": 900,
+            "part": "2 of 9"
+          },
+          {
+            "file": "screenshots/custom-desktop-03.jpg",
+            "top": 1800,
+            "height": 900,
+            "part": "3 of 9"
+          },
+          {
+            "file": "screenshots/custom-desktop-04.jpg",
+            "top": 2700,
+            "height": 900,
+            "part": "4 of 9"
+          },
+          {
+            "file": "screenshots/custom-desktop-05.jpg",
+            "top": 3600,
+            "height": 900,
+            "part": "5 of 9"
+          },
+          {
+            "file": "screenshots/custom-desktop-09.jpg",
+            "top": 7200,
+            "height": 798,
+            "part": "9 of 9"
+          }
+        ],
+        "phone": [
+          {
+            "file": "screenshots/custom-phone-01.jpg",
+            "top": 0,
+            "height": 844,
+            "part": "1 of 15"
+          },
+          {
+            "file": "screenshots/custom-phone-02.jpg",
+            "top": 844,
+            "height": 844,
+            "part": "2 of 15"
+          },
+          {
+            "file": "screenshots/custom-phone-03.jpg",
+            "top": 1688,
+            "height": 844,
+            "part": "3 of 15"
+          },
+          {
+            "file": "screenshots/custom-phone-04.jpg",
+            "top": 2532,
+            "height": 844,
+            "part": "4 of 15"
+          },
+          {
+            "file": "screenshots/custom-phone-05.jpg",
+            "top": 3376,
+            "height": 844,
+            "part": "5 of 15"
+          },
+          {
+            "file": "screenshots/custom-phone-15.jpg",
+            "top": 11816,
+            "height": 184,
+            "part": "15 of 15"
+          }
+        ],
+        "page_height": {
+          "desktop": 7998,
+          "phone": 12000
+        }
+      },
+      "images": [
+        "images/2873edf299fbeed9.gif",
+        "images/98255ff23bd022ff.webp",
+        "images/c40bb8efedb60a88.webp",
+        "images/2b613dc10e27437f.webp",
+        "images/0e46fd44bd86596f.webp",
+        "images/d540b59ab54d5c01.webp",
+        "images/5731904c1402217f.webp",
+        "images/e03fe1e2e6e9ee6e.webp",
+        "images/db33987d724f92c5.webp"
+      ],
+      "status": "copied"
+    },
+    {
+      "url": "https://scalogy.com/compare",
+      "file": "pages/compare.html",
+      "title": "Scalogy vs. OpenClaw vs. Claude vs. ChatGPT — Compare — Scalogy",
+      "description": "How Scalogy compares to OpenClaw, Claude Computer Use, the Claude Chrome extension, and ChatGPT across workflows, primitives, secrets, security, portals,…",
+      "screenshots": {
+        "desktop": [
+          {
+            "file": "screenshots/compare-desktop-01.jpg",
+            "top": 0,
+            "height": 900,
+            "part": "1 of 5"
+          },
+          {
+            "file": "screenshots/compare-desktop-02.jpg",
+            "top": 900,
+            "height": 900,
+            "part": "2 of 5"
+          },
+          {
+            "file": "screenshots/compare-desktop-03.jpg",
+            "top": 1800,
+            "height": 900,
+            "part": "3 of 5"
+          },
+          {
+            "file": "screenshots/compare-desktop-04.jpg",
+            "top": 2700,
+            "height": 900,
+            "part": "4 of 5"
+          },
+          {
+            "file": "screenshots/compare-desktop-05.jpg",
+            "top": 3600,
+            "height": 229,
+            "part": "5 of 5"
+          }
+        ],
+        "phone": [
+          {
+            "file": "screenshots/compare-phone-01.jpg",
+            "top": 0,
+            "height": 844,
+            "part": "1 of 12"
+          },
+          {
+            "file": "screenshots/compare-phone-02.jpg",
+            "top": 844,
+            "height": 844,
+            "part": "2 of 12"
+          },
+          {
+            "file": "screenshots/compare-phone-03.jpg",
+            "top": 1688,
+            "height": 844,
+            "part": "3 of 12"
+          },
+          {
+            "file": "screenshots/compare-phone-04.jpg",
+            "top": 2532,
+            "height": 844,
+            "part": "4 of 12"
+          },
+          {
+            "file": "screenshots/compare-phone-05.jpg",
+            "top": 3376,
+            "height": 844,
+            "part": "5 of 12"
+          },
+          {
+            "file": "screenshots/compare-phone-12.jpg",
+            "top": 9284,
+            "height": 622,
+            "part": "12 of 12"
+          }
+        ],
+        "page_height": {
+          "desktop": 3829,
+          "phone": 9906
+        }
+      },
+      "images": [
+        "images/2873edf299fbeed9.gif",
+        "images/98255ff23bd022ff.webp",
+        "images/db33987d724f92c5.webp"
+      ],
+      "status": "copied"
+    },
+    {
+      "url": "https://scalogy.com/contact",
+      "file": "pages/contact.html",
+      "title": "Contact Us — Scalogy",
+      "description": "Book a free discovery call with Scalogy. Tell us about your business and we'll show you exactly where our AI runners save you real time.",
+      "screenshots": {
+        "desktop": [
+          {
+            "file": "screenshots/contact-desktop-01.jpg",
+            "top": 0,
+            "height": 900,
+            "part": "1 of 3"
+          },
+          {
+            "file": "screenshots/contact-desktop-02.jpg",
+            "top": 900,
+            "height": 900,
+            "part": "2 of 3"
+          },
+          {
+            "file": "screenshots/contact-desktop-03.jpg",
+            "top": 1800,
+            "height": 115,
+            "part": "3 of 3"
+          }
+        ],
+        "phone": [
+          {
+            "file": "screenshots/contact-phone-01.jpg",
+            "top": 0,
+            "height": 844,
+            "part": "1 of 4"
+          },
+          {
+            "file": "screenshots/contact-phone-02.jpg",
+            "top": 844,
+            "height": 844,
+            "part": "2 of 4"
+          },
+          {
+            "file": "screenshots/contact-phone-03.jpg",
+            "top": 1688,
+            "height": 844,
+            "part": "3 of 4"
+          },
+          {
+            "file": "screenshots/contact-phone-04.jpg",
+            "top": 2532,
+            "height": 497,
+            "part": "4 of 4"
+          }
+        ],
+        "page_height": {
+          "desktop": 1915,
+          "phone": 3029
+        }
+      },
+      "images": [
+        "images/2873edf299fbeed9.gif",
+        "images/98255ff23bd022ff.webp",
+        "images/db33987d724f92c5.webp"
+      ],
+      "status": "copied"
+    },
+    {
+      "url": "https://scalogy.com/pricing",
+      "file": "pages/pricing.html",
+      "title": "Pricing — Scalogy",
+      "description": "AI-powered business automation. Replace your VA, automate your marketing, and never miss a lead. Just $27/mo. Cancel anytime.",
+      "screenshots": {
+        "desktop": [
+          {
+            "file": "screenshots/pricing-desktop-01.jpg",
+            "top": 0,
+            "height": 900,
+            "part": "1 of 5"
+          },
+          {
+            "file": "screenshots/pricing-desktop-02.jpg",
+            "top": 900,
+            "height": 900,
+            "part": "2 of 5"
+          },
+          {
+            "file": "screenshots/pricing-desktop-03.jpg",
+            "top": 1800,
+            "height": 900,
+            "part": "3 of 5"
+          },
+          {
+            "file": "screenshots/pricing-desktop-04.jpg",
+            "top": 2700,
+            "height": 900,
+            "part": "4 of 5"
+          },
+          {
+            "file": "screenshots/pricing-desktop-05.jpg",
+            "top": 3600,
+            "height": 118,
+            "part": "5 of 5"
+          }
+        ],
+        "phone": [
+          {
+            "file": "screenshots/pricing-phone-01.jpg",
+            "top": 0,
+            "height": 844,
+            "part": "1 of 6"
+          },
+          {
+            "file": "screenshots/pricing-phone-02.jpg",
+            "top": 844,
+            "height": 844,
+            "part": "2 of 6"
+          },
+          {
+            "file": "screenshots/pricing-phone-03.jpg",
+            "top": 1688,
+            "height": 844,
+            "part": "3 of 6"
+          },
+          {
+            "file": "screenshots/pricing-phone-04.jpg",
+            "top": 2532,
+            "height": 844,
+            "part": "4 of 6"
+          },
+          {
+            "file": "screenshots/pricing-phone-05.jpg",
+            "top": 3376,
+            "height": 844,
+            "part": "5 of 6"
+          },
+          {
+            "file": "screenshots/pricing-phone-06.jpg",
+            "top": 4220,
+            "height": 765,
+            "part": "6 of 6"
+          }
+        ],
+        "page_height": {
+          "desktop": 3718,
+          "phone": 4985
+        }
+      },
+      "images": [
+        "images/2873edf299fbeed9.gif",
+        "images/98255ff23bd022ff.webp",
+        "images/2482704a6354101c.webp",
+        "images/db33987d724f92c5.webp"
+      ],
+      "status": "copied"
+    },
+    {
+      "url": "https://scalogy.com/privacy",
+      "file": "pages/privacy.html",
+      "title": "Privacy Policy — Scalogy",
+      "description": "Scalogy privacy policy. How we collect, use, and protect your data.",
+      "screenshots": {
+        "desktop": [
+          {
+            "file": "screenshots/privacy-desktop-01.jpg",
+            "top": 0,
+            "height": 900,
+            "part": "1 of 4"
+          },
+          {
+            "file": "screenshots/privacy-desktop-02.jpg",
+            "top": 900,
+            "height": 900,
+            "part": "2 of 4"
+          },
+          {
+            "file": "screenshots/privacy-desktop-03.jpg",
+            "top": 1800,
+            "height": 900,
+            "part": "3 of 4"
+          },
+          {
+            "file": "screenshots/privacy-desktop-04.jpg",
+            "top": 2700,
+            "height": 563,
+            "part": "4 of 4"
+          }
+        ],
+        "phone": [
+          {
+            "file": "screenshots/privacy-phone-01.jpg",
+            "top": 0,
+            "height": 844,
+            "part": "1 of 5"
+          },
+          {
+            "file": "screenshots/privacy-phone-02.jpg",
+            "top": 844,
+            "height": 844,
+            "part": "2 of 5"
+          },
+          {
+            "file": "screenshots/privacy-phone-03.jpg",
+            "top": 1688,
+            "height": 844,
+            "part": "3 of 5"
+          },
+          {
+            "file": "screenshots/privacy-phone-04.jpg",
+            "top": 2532,
+            "height": 844,
+            "part": "4 of 5"
+          },
+          {
+            "file": "screenshots/privacy-phone-05.jpg",
+            "top": 3376,
+            "height": 775,
+            "part": "5 of 5"
+          }
+        ],
+        "page_height": {
+          "desktop": 3263,
+          "phone": 4151
+        }
+      },
+      "images": [
+        "images/2873edf299fbeed9.gif",
+        "images/98255ff23bd022ff.webp",
+        "images/db33987d724f92c5.webp"
+      ],
+      "status": "copied"
+    },
+    {
+      "url": "https://scalogy.com/api-docs",
+      "file": "pages/api-docs.html",
+      "title": "Scalogy API — Scalogy",
+      "description": "Public API for scalogy.com: submit a lead with POST /api/contact, ask the site assistant with POST /api/chat, and check availability with GET /api/health.",
+      "screenshots": {
+        "desktop": [
+          {
+            "file": "screenshots/api-docs-desktop-01.jpg",
+            "top": 0,
+            "height": 900,
+            "part": "1 of 3"
+          },
+          {
+            "file": "screenshots/api-docs-desktop-02.jpg",
+            "top": 900,
+            "height": 900,
+            "part": "2 of 3"
+          },
+          {
+            "file": "screenshots/api-docs-desktop-03.jpg",
+            "top": 1800,
+            "height": 366,
+            "part": "3 of 3"
+          }
+        ],
+        "phone": [
+          {
+            "file": "screenshots/api-docs-phone-01.jpg",
+            "top": 0,
+            "height": 844,
+            "part": "1 of 4"
+          },
+          {
+            "file": "screenshots/api-docs-phone-02.jpg",
+            "top": 844,
+            "height": 844,
+            "part": "2 of 4"
+          },
+          {
+            "file": "screenshots/api-docs-phone-03.jpg",
+            "top": 1688,
+            "height": 844,
+            "part": "3 of 4"
+          },
+          {
+            "file": "screenshots/api-docs-phone-04.jpg",
+            "top": 2532,
+            "height": 414,
+            "part": "4 of 4"
+          }
+        ],
+        "page_height": {
+          "desktop": 2166,
+          "phone": 2946
+        }
+      },
+      "images": [
+        "images/2873edf299fbeed9.gif",
+        "images/98255ff23bd022ff.webp",
+        "images/db33987d724f92c5.webp"
+      ],
+      "status": "copied"
+    }
+  ],
+  "not_copied": [
+    "https://scalogy.com/platform",
+    "https://scalogy.com/services",
+    "https://scalogy.com/resources",
+    "https://scalogy.com/industries",
+    "https://scalogy.com/case-studies",
+    "https://scalogy.com/service-area",
+    "https://scalogy.com/copy-my-website",
+    "https://scalogy.com/real-estate-analyzer",
+    "https://scalogy.com/guest-article-exchange",
+    "https://scalogy.com/industries/hvac",
+    "https://scalogy.com/services/reviews",
+    "https://scalogy.com/industries/salons",
+    "https://scalogy.com/industries/tutors",
+    "https://scalogy.com/services/analysis",
+    "https://scalogy.com/industries/roofing",
+    "https://scalogy.com/services/follow-up",
+    "https://scalogy.com/industries/daycares",
+    "https://scalogy.com/industries/florists",
+    "https://scalogy.com/industries/plumbers",
+    "https://scalogy.com/services/mcp-server",
+    "https://scalogy.com/services/scheduling",
+    "https://scalogy.com/industries/law-firms",
+    "https://scalogy.com/service-area/atlanta",
+    "https://scalogy.com/services/crm-pipeline",
+    "https://scalogy.com/services/lead-magnets",
+    "https://scalogy.com/services/social-media",
+    "https://scalogy.com/industries/accountants",
+    "https://scalogy.com/industries/auto-repair",
+    "https://scalogy.com/industries/landscapers",
+    "https://scalogy.com/industries/real-estate",
+    "https://scalogy.com/industries/restaurants",
+    "https://scalogy.com/services/lead-response",
+    "https://scalogy.com/industries/electricians",
+    "https://scalogy.com/industries/pest-control",
+    "https://scalogy.com/industries/pool-service",
+    "https://scalogy.com/blog/what-is-an-ai-agent",
+    "https://scalogy.com/industries/photographers",
+    "https://scalogy.com/industries/veterinarians",
+    "https://scalogy.com/resources/roi-calculator",
+    "https://scalogy.com/services/website-builder",
+    "https://scalogy.com/case-studies/clio-shelter",
+    "https://scalogy.com/industries/dental-offices",
+    "https://scalogy.com/industries/event-planners",
+    "https://scalogy.com/case-studies/kim-photo-app",
+    "https://scalogy.com/industries/car-dealerships",
+    "https://scalogy.com/industries/gyms-and-fitness",
+    "https://scalogy.com/industries/insurance-agents",
+    "https://scalogy.com/industries/moving-companies",
+    "https://scalogy.com/industries/cleaning-services",
+    "https://scalogy.com/industries/personal-trainers",
+    "https://scalogy.com/industries/property-managers",
+    "https://scalogy.com/case-studies/jason-real-estate",
+    "https://scalogy.com/industries/housecall-pro-audit",
+    "https://scalogy.com/resources/automation-checklist",
+    "https://scalogy.com/blog/south-florida-ai-automation",
+    "https://scalogy.com/blog/signs-your-business-needs-ai",
+    "https://scalogy.com/resources/ai-readiness-assessment",
+    "https://scalogy.com/guest-article-exchange/how-to-submit",
+    "https://scalogy.com/blog/ai-agents-for-insurance-agencies",
+    "https://scalogy.com/blog/pest-control-doubled-bookings-ai",
+    "https://scalogy.com/blog/why-voicemail-is-losing-you-money",
+    "https://scalogy.com/blog/landscaping-quote-follow-up-system",
+    "https://scalogy.com/blog/5-signs-business-ready-ai-automation",
+    "https://scalogy.com/blog/ai-for-property-management-companies",
+    "https://scalogy.com/blog/ai-agents-for-home-service-businesses",
+    "https://scalogy.com/blog/ai-agents-for-salons-booking-no-shows",
+    "https://scalogy.com/blog/ai-for-dental-offices-reduce-no-shows",
+    "https://scalogy.com/blog/cost-of-not-following-up-on-estimates",
+    "https://scalogy.com/blog/painting-contractors-follow-up-system",
+    "https://scalogy.com/blog/scheduling-system-saved-8-hours-a-week",
+    "https://scalogy.com/blog/ai-agents-insurance-close-more-policies",
+    "https://scalogy.com/blog/ai-lead-qualification-stop-wasting-time",
+    "https://scalogy.com/blog/gohighlevel-ai-workflows-small-business",
+    "https://scalogy.com/blog/the-roi-of-ai-agents-for-small-business",
+    "https://scalogy.com/blog/ai-agents-for-law-firms-intake-follow-up",
+    "https://scalogy.com/blog/fayette-coweta-practices-reduce-no-shows",
+    "https://scalogy.com/blog/financial-advisors-ai-lead-qualification",
+    "https://scalogy.com/blog/ai-for-daycares-parent-inquiry-automation",
+    "https://scalogy.com/blog/ai-for-south-metro-atlanta-hvac-companies",
+    "https://scalogy.com/blog/chiropractors-patient-reactivation-system",
+    "https://scalogy.com/blog/gohighlevel-custom-builds-beyond-defaults",
+    "https://scalogy.com/blog/gohighlevel-setup-trap-why-agencies-stall",
+    "https://scalogy.com/blog/small-business-ai-guide-2026-real-vs-hype",
+    "https://scalogy.com/blog/ai-for-gyms-member-retention-class-booking",
+    "https://scalogy.com/blog/atlanta-roofers-storm-season-lead-response",
+    "https://scalogy.com/blog/atlanta-small-business-ai-automation-guide",
+    "https://scalogy.com/blog/google-reviews-matter-more-than-website-ai",
+    "https://scalogy.com/blog/how-to-respond-to-leads-in-under-5-minutes",
+    "https://scalogy.com/blog/hvac-seasonal-rush-automation-missed-leads",
+    "https://scalogy.com/blog/why-most-small-businesses-fail-at-follow-up"
+  ],
+  "menu": [
+    {
+      "text": "SCALOGY",
+      "href": "pages/index.html"
+    },
+    {
+      "text": "📞 (912) 875-2822",
+      "href": "tel:+19128752822"
+    },
+    {
+      "text": "COMPARE",
+      "href": "pages/compare.html"
+    },
+    {
+      "text": "INSIGHTS",
+      "href": "pages/blog.html"
+    },
+    {
+      "text": "INDUSTRIES",
+      "href": "https://scalogy.com/industries"
+    },
+    {
+      "text": "RESOURCES",
+      "href": "https://scalogy.com/resources"
+    },
+    {
+      "text": "▶ BOOK CALL",
+      "href": "pages/contact.html"
+    }
+  ],
+  "contact": {
+    "emails": [],
+    "phones": [
+      "+19128752822"
+    ]
+  },
+  "brand": {
+    "fonts": [
+      "system-ui",
+      "Pixelify Sans",
+      "IBM Plex Mono"
+    ],
+    "colors": [
+      "rgb(255, 255, 255)",
+      "rgb(15, 15, 35)",
+      "rgb(45, 27, 78)",
+      "rgb(235, 229, 212)"
+    ]
+  },
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://scalogy.com/#organization",
+          "name": "Scalogy",
+          "url": "https://scalogy.com",
+          "logo": "https://scalogy.com/og/logo-icon.png",
+          "description": "AI-powered business automation platform. Autonomous AI runners that handle marketing, operations, and growth for small businesses.",
+          "slogan": "Describe it. Claude builds it.",
+          "foundingDate": "2024",
+          "founder": {
+            "@type": "Person",
+            "name": "Chris Cruz"
+          },
+          "email": "chief@scalogy.com",
+          "telephone": "+1-912-875-2822",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Fayetteville",
+            "addressRegion": "GA",
+            "addressCountry": "US"
+          },
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "email": "chief@scalogy.com",
+            "telephone": "+1-912-875-2822",
+            "availableLanguage": [
+              "English",
+              "Spanish"
+            ]
+          },
+          "sameAs": [
+            "https://www.google.com/maps?cid=15152132564726960548",
+            "https://www.linkedin.com/company/scalogyai",
+            "https://www.facebook.com/profile.php?id=61572014966137",
+            "https://www.instagram.com/scalogyai"
+          ],
+          "areaServed": [
+            {
+              "@type": "AdministrativeArea",
+              "name": "Atlanta metropolitan area"
+            },
+            {
+              "@type": "State",
+              "name": "Georgia"
+            },
+            {
+              "@type": "Country",
+              "name": "United States"
+            }
+          ],
+          "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Scalogy Platform",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Scalogy Platform",
+                  "description": "AI-native PaaS — Claude builds your automations on real infrastructure, $27/mo"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://scalogy.com/#website",
+          "url": "https://scalogy.com",
+          "name": "Scalogy",
+          "publisher": {
+            "@id": "https://scalogy.com/#organization"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@context": "https://schema.org",
+          "@type": "LocalBusiness",
+          "@id": "https://scalogy.com/#business",
+          "name": "Scalogy",
+          "url": "https://scalogy.com",
+          "image": "https://scalogy.com/og/og-default.png",
+          "logo": "https://scalogy.com/og/logo-icon.png",
+          "email": "chief@scalogy.com",
+          "telephone": "+1-912-875-2822",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Fayetteville",
+            "addressRegion": "GA",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 33.4487,
+            "longitude": -84.4549
+          },
+          "areaServed": [
+            {
+              "@type": "AdministrativeArea",
+              "name": "Atlanta metropolitan area"
+            },
+            {
+              "@type": "City",
+              "name": "Atlanta"
+            },
+            {
+              "@type": "City",
+              "name": "Fayetteville"
+            },
+            {
+              "@type": "City",
+              "name": "Peachtree City"
+            },
+            {
+              "@type": "City",
+              "name": "Newnan"
+            },
+            {
+              "@type": "City",
+              "name": "McDonough"
+            },
+            {
+              "@type": "City",
+              "name": "Marietta"
+            },
+            {
+              "@type": "City",
+              "name": "Alpharetta"
+            },
+            {
+              "@type": "City",
+              "name": "Decatur"
+            },
+            {
+              "@type": "State",
+              "name": "Georgia"
+            },
+            {
+              "@type": "Country",
+              "name": "United States"
+            }
+          ],
+          "sameAs": [
+            "https://www.google.com/maps?cid=15152132564726960548",
+            "https://www.linkedin.com/company/scalogyai",
+            "https://www.facebook.com/profile.php?id=61572014966137",
+            "https://www.instagram.com/scalogyai"
+          ],
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+              ],
+              "opens": "09:00",
+              "closes": "17:00"
+            }
+          ],
+          "description": "AI and business automation for Atlanta-metro service businesses. Based in Fayetteville, GA. We automate lead response, scheduling, follow-ups, reviews, CRM pipelines and business analysis.",
+          "priceRange": "$$",
+          "knowsAbout": [
+            "AI Agents",
+            "Business Automation",
+            "Lead Generation",
+            "Small Business Technology",
+            "Machine Learning",
+            "Workflow Automation",
+            "CRM Automation"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "HowTo",
+          "name": "How to Build Custom Automations with Scalogy and Claude",
+          "description": "Three steps to ship custom apps, workflows, and dashboards on your own Scalogy server using Claude.",
+          "step": [
+            {
+              "@type": "HowToStep",
+              "name": "Connect to Claude",
+              "text": "Sign in to Claude in about 30 seconds. No API keys, no setup.",
+              "position": 1
+            },
+            {
+              "@type": "HowToStep",
+              "name": "Claude Connects to Your Scalogy Server",
+              "text": "Claude links to your private Scalogy server instantly — your own dev environment, ready to go.",
+              "position": 2
+            },
+            {
+              "@type": "HowToStep",
+              "name": "Build by Talking to Claude",
+              "text": "Describe what you want and Claude builds it on your server: apps, websites, scheduled workflows, dashboards, and client portals.",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is Scalogy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Scalogy is an AI-native platform where Claude builds your business automations on a private server you own — apps, dashboards, scheduled workflows, webhooks, and custom-domain pages — without you writing code."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How much does Scalogy cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Scalogy platform is $27 per month. You can build your own automations by talking to Claude, or pay for a Custom Install if you want us to build the first one for you."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do I need to know how to code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. You describe what you want in plain English and Claude builds it on your Scalogy server. No code, no drag-and-drop builder."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What can I build on Scalogy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Apps, websites, scheduled workflows, webhooks, custom-domain pages, dashboards, and client portals — anything you can describe to Claude that runs on a Postgres + Python + web stack."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do I own what gets built?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Everything Claude builds on your Scalogy server is yours — the data, the code, the settings. If you ever leave, you take it with you. No lock-in, no exit fees."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "old_urls": [
+    "https://scalogy.com/",
+    "https://scalogy.com/blog",
+    "https://scalogy.com/about",
+    "https://scalogy.com/terms",
+    "https://scalogy.com/custom",
+    "https://scalogy.com/compare",
+    "https://scalogy.com/contact",
+    "https://scalogy.com/pricing",
+    "https://scalogy.com/privacy",
+    "https://scalogy.com/api-docs",
+    "https://scalogy.com/platform",
+    "https://scalogy.com/services",
+    "https://scalogy.com/resources",
+    "https://scalogy.com/industries",
+    "https://scalogy.com/case-studies",
+    "https://scalogy.com/service-area",
+    "https://scalogy.com/copy-my-website",
+    "https://scalogy.com/real-estate-analyzer",
+    "https://scalogy.com/guest-article-exchange",
+    "https://scalogy.com/industries/hvac",
+    "https://scalogy.com/services/reviews",
+    "https://scalogy.com/industries/salons",
+    "https://scalogy.com/industries/tutors",
+    "https://scalogy.com/services/analysis",
+    "https://scalogy.com/industries/roofing",
+    "https://scalogy.com/services/follow-up",
+    "https://scalogy.com/industries/daycares",
+    "https://scalogy.com/industries/florists",
+    "https://scalogy.com/industries/plumbers",
+    "https://scalogy.com/services/mcp-server",
+    "https://scalogy.com/services/scheduling",
+    "https://scalogy.com/industries/law-firms",
+    "https://scalogy.com/service-area/atlanta",
+    "https://scalogy.com/services/crm-pipeline",
+    "https://scalogy.com/services/lead-magnets",
+    "https://scalogy.com/services/social-media",
+    "https://scalogy.com/industries/accountants",
+    "https://scalogy.com/industries/auto-repair",
+    "https://scalogy.com/industries/landscapers",
+    "https://scalogy.com/industries/real-estate",
+    "https://scalogy.com/industries/restaurants",
+    "https://scalogy.com/services/lead-response",
+    "https://scalogy.com/industries/electricians",
+    "https://scalogy.com/industries/pest-control",
+    "https://scalogy.com/industries/pool-service",
+    "https://scalogy.com/blog/what-is-an-ai-agent",
+    "https://scalogy.com/industries/photographers",
+    "https://scalogy.com/industries/veterinarians",
+    "https://scalogy.com/resources/roi-calculator",
+    "https://scalogy.com/services/website-builder",
+    "https://scalogy.com/case-studies/clio-shelter",
+    "https://scalogy.com/industries/dental-offices",
+    "https://scalogy.com/industries/event-planners",
+    "https://scalogy.com/case-studies/kim-photo-app",
+    "https://scalogy.com/industries/car-dealerships",
+    "https://scalogy.com/industries/gyms-and-fitness",
+    "https://scalogy.com/industries/insurance-agents",
+    "https://scalogy.com/industries/moving-companies",
+    "https://scalogy.com/industries/cleaning-services",
+    "https://scalogy.com/industries/personal-trainers",
+    "https://scalogy.com/industries/property-managers",
+    "https://scalogy.com/case-studies/jason-real-estate",
+    "https://scalogy.com/industries/housecall-pro-audit",
+    "https://scalogy.com/resources/automation-checklist",
+    "https://scalogy.com/blog/south-florida-ai-automation",
+    "https://scalogy.com/blog/signs-your-business-needs-ai",
+    "https://scalogy.com/resources/ai-readiness-assessment",
+    "https://scalogy.com/guest-article-exchange/how-to-submit",
+    "https://scalogy.com/blog/ai-agents-for-insurance-agencies",
+    "https://scalogy.com/blog/pest-control-doubled-bookings-ai",
+    "https://scalogy.com/blog/why-voicemail-is-losing-you-money",
+    "https://scalogy.com/blog/landscaping-quote-follow-up-system",
+    "https://scalogy.com/blog/5-signs-business-ready-ai-automation",
+    "https://scalogy.com/blog/ai-for-property-management-companies",
+    "https://scalogy.com/blog/ai-agents-for-home-service-businesses",
+    "https://scalogy.com/blog/ai-agents-for-salons-booking-no-shows",
+    "https://scalogy.com/blog/ai-for-dental-offices-reduce-no-shows",
+    "https://scalogy.com/blog/cost-of-not-following-up-on-estimates",
+    "https://scalogy.com/blog/painting-contractors-follow-up-system",
+    "https://scalogy.com/blog/scheduling-system-saved-8-hours-a-week",
+    "https://scalogy.com/blog/ai-agents-insurance-close-more-policies",
+    "https://scalogy.com/blog/ai-lead-qualification-stop-wasting-time",
+    "https://scalogy.com/blog/gohighlevel-ai-workflows-small-business",
+    "https://scalogy.com/blog/the-roi-of-ai-agents-for-small-business",
+    "https://scalogy.com/blog/ai-agents-for-law-firms-intake-follow-up",
+    "https://scalogy.com/blog/fayette-coweta-practices-reduce-no-shows",
+    "https://scalogy.com/blog/financial-advisors-ai-lead-qualification",
+    "https://scalogy.com/blog/ai-for-daycares-parent-inquiry-automation",
+    "https://scalogy.com/blog/ai-for-south-metro-atlanta-hvac-companies",
+    "https://scalogy.com/blog/chiropractors-patient-reactivation-system",
+    "https://scalogy.com/blog/gohighlevel-custom-builds-beyond-defaults",
+    "https://scalogy.com/blog/gohighlevel-setup-trap-why-agencies-stall",
+    "https://scalogy.com/blog/small-business-ai-guide-2026-real-vs-hype",
+    "https://scalogy.com/blog/ai-for-gyms-member-retention-class-booking",
+    "https://scalogy.com/blog/atlanta-roofers-storm-season-lead-response",
+    "https://scalogy.com/blog/atlanta-small-business-ai-automation-guide",
+    "https://scalogy.com/blog/google-reviews-matter-more-than-website-ai",
+    "https://scalogy.com/blog/how-to-respond-to-leads-in-under-5-minutes",
+    "https://scalogy.com/blog/hvac-seasonal-rush-automation-missed-leads",
+    "https://scalogy.com/blog/why-most-small-businesses-fail-at-follow-up"
+  ],
+  "skipped": [
+    {
+      "page": "https://scalogy.com/contact",
+      "what": "form",
+      "note": "Replaced with an email link (a forms service is outside the copy)."
+    }
+  ]
+}

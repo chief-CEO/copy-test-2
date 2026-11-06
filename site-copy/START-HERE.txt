@@ -1,0 +1,15 @@
+Copy of scalogy.com, made by Scalogy's Copy my website tool on 2026-11-06.
+It holds the first 10 of the 100 pages we found.
+
+What to do with it:
+
+1. Open this repository in your AI agent: Claude Code on the web (claude.ai/code), or Codex in ChatGPT (chatgpt.com/codex).
+2. Type: Follow the instructions in site-copy/COPY-PROMPT.md.
+3. When it's done, merge its work: open its pull request on GitHub (if there isn't one, click Create PR in the agent first), click Merge pull request, then Confirm merge.
+
+Your new site goes live at https://chief-ceo.github.io/copy-test-2/ about a minute after you merge. Until then that address shows a "coming soon" page. Publishing is already switched on, so there's nothing to change in Settings.
+
+Your current website is not changed.
+Scalogy removed its access to this repository right after adding these files.
+
+Course and tool: https://scalogy.com/copy-my-website
