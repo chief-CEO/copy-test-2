@@ -2,3 +2,4 @@
 # site-copy/ is source material for your AI agent: this keeps it off your live site.
 exclude:
   - site-copy
+# Test commit: a commit by the owner turns Pages on.
